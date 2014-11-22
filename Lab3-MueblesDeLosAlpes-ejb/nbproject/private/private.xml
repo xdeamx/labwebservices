@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Oscar%20Mellizo/Desktop/Lab3-MueblesDeLosAlpes/Lab3-MueblesDeLosAlpes-ejb/src/java/com/losalpes/entities/Vendedor.java</file>
+            <file>file:/C:/Users/Oscar%20Mellizo/Desktop/Lab3-MueblesDeLosAlpes/Lab3-MueblesDeLosAlpes-ejb/src/java/com/losalpes/servicios/ServicioVendedoresMock.java</file>
+            <file>file:/C:/Users/Oscar%20Mellizo/Desktop/Lab3-MueblesDeLosAlpes/Lab3-MueblesDeLosAlpes-ejb/src/java/com/losalpes/servicios/ServicioPersistenciaMock.java</file>
+            <file>file:/C:/Users/Oscar%20Mellizo/Desktop/Lab3-MueblesDeLosAlpes/Lab3-MueblesDeLosAlpes-ejb/src/java/com/losalpes/servicios/IServicioVendedoresMockRemote.java</file>
+            <file>file:/C:/Users/Oscar%20Mellizo/Desktop/Lab3-MueblesDeLosAlpes/Lab3-MueblesDeLosAlpes-ejb/src/java/com/losalpes/servicios/IServicioVendedoresMockLocal.java</file>
+            <file>file:/C:/Users/Oscar%20Mellizo/Desktop/Lab3-MueblesDeLosAlpes/Lab3-MueblesDeLosAlpes-ejb/src/java/com/losalpes/servicios/ServicioCarritoMock.java</file>
+        </group>
+    </open-files>
+</project-private>
